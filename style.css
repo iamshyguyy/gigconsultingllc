@@ -856,7 +856,7 @@ form button fa-regular{
     background: linear-gradient(270deg,#ff994f,#fa6d86);
     cursor: pointer;
 }
-.contact-left button img {
+.contact-left button img{
     height: 15px;
 }
 .contact-right img{
